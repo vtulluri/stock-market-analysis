@@ -1,7 +1,7 @@
-## Stock Market Analysis
+# Stock Market Analysis
 
 
-# Steps involved:
+## Steps involved:
 1. Importing all the libraries needed
 2. Uploading the dataset from google drive
 3. Analysing Closing Price of Stocks & Volume
